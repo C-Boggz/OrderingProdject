@@ -23,6 +23,6 @@ Steps going to be taken:
 ideally in the future this backend is paired with a front-end GUI that cleans up the User Input process so it's not just a terminal
 
 Tech Stack:
-Language - Java 
-Libraires - java math and array lists
+- Language - Java 
+- Libraires - java math and array lists
 
